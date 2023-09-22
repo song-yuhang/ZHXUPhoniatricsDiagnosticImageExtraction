@@ -1,1 +1,9 @@
 img/
+.ipynb_checkpoints/
+.idea/
+test.py
+testpaddle.py
+.vscode/
+data.c
+
+
